@@ -1,0 +1,7 @@
+{
+  "name": "learnstreak-desktop",
+  "version": "1.0.0",
+  "main": "main.js",
+  "private": true,
+  "description": "Desktop wrapper for LearnStreak"
+}
