@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Edusense AI - Learn Smarter, Not Harder
 
 An advanced web-based learning platform featuring AI tutoring, streak tracking, gamification, and automated certificate generation.
@@ -132,3 +133,6 @@ Built with ❤️ using:
 ---
 
 **Edusense AI** - Learn Smarter, Not Harder 🚀
+=======
+# web_app
+>>>>>>> a58a76556ee3531a41f8727380d89d8b9033b6a3
