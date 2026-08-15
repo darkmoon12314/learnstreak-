@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Edusense AI - Learn Smarter, Not Harder
+# LearnStreak 
 
 An advanced web-based learning platform featuring AI tutoring, streak tracking, gamification, and automated certificate generation.
 
@@ -102,7 +102,7 @@ npm run dev
 
 ## 🤖 AI Tutor
 
-The Edusense AI Mentor is always available via the floating chat button:
+The LearnStreak Mentor is always available via the floating chat button:
 - Ask questions about course content
 - Get explanations of complex concepts
 - Receive study tips and motivation
@@ -132,7 +132,7 @@ Built with ❤️ using:
 
 ---
 
-**Edusense AI** - Learn Smarter, Not Harder 🚀
+**LearnStrek** 🚀
 =======
 # web_app
 >>>>>>> a58a76556ee3531a41f8727380d89d8b9033b6a3
